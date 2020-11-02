@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {
+  "compilerOptionsTest": {
     "target": "es6",
     "module": "commonjs",
     "lib": [
